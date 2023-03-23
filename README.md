@@ -7,6 +7,8 @@
 - 📫 How to reach me: arturdlmeira@gmail.com or (38)99907-1217
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adiniz21&show_icons=true&theme=dracula" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiniz21&langs_count=6&theme=dracula&layout=compact" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adiniz21&show_icons=true&theme=dracula" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiniz21&langs_count=6&theme=dracula&layout=compact" height="180px">
+ </div> 
+ 
 
